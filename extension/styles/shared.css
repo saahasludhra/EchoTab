@@ -1,0 +1,6 @@
+/* EchoTab shared styles — currently empty; popup and options carry their own
+   styles. Reserved for future shared design tokens. */
+:root {
+  --echotab-primary: #2563eb;
+  --echotab-accent: #06b6d4;
+}
